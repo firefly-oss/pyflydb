@@ -369,7 +369,7 @@ pyFlyDb uses FlyDB's binary protocol for efficient communication:
 │  ┌──────────────────────────────────────────┐   │
 │  │ • SQL Parser & Executor                  │   │
 │  │ • Transaction Manager                    │   │
-│  │ • Storage Engine (KVStore + WAL)        │   │
+│  │ • Storage Engine (KVStore + WAL)         │   │
 │  └──────────────────────────────────────────┘   │
 └─────────────────────────────────────────────────┘
 ```
